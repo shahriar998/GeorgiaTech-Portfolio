@@ -6,7 +6,7 @@ Description: My personal portfolio. Features HTML, Bootstrap 4 CSS Framework and
 2) git clone https://github.com/shahriar998/Portfolio-GT.git
 
 # Installation
-Deployed version - https://shahriar998.github.io/Portfolio-GT/.
+Deployed version - https://shahriar998.github.io/GeorgiaTech-Portfolio/.
 
 # Usage
 1) Launch project from any code editor i.e. Sublime, Atom, VS Code, etc...
